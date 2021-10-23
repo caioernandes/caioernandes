@@ -16,7 +16,6 @@
 ✨ Metodologia ágil (SCRUM + Jira) </br>
 ✨ Android Jetpack Components </br>
 ✨ Consumo de API (Coroutines e Flow) </br>
-✨ Github </br>
 ✨ CI/CD (Bitrise) </br>
 
 # 📖 License

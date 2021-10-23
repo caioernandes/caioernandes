@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=@linkedin&message=@caioernandes&color=blue)](https://www.linkedin.com/in/caioernandes/)
 
 
-# 🖥️ Tecnologias, metodologias e arquiteturas que utilizo em meus projetos
+# 🖥️ Tecnologias e conceitos que utilizo em meus projetos
 
 ✨ Kotlin/Java </br>
 ✨ MVVM/MVP </br>
